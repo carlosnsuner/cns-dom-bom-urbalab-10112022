@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+}
+
+.container{
+    background-color: rgb(179, 150, 96);
+    width: 100vw;
+    height: 70vh;
+}
+
+.box{
+    background-color: blueviolet;
+    width: 100vw;
+    height: 70vh;
+}
